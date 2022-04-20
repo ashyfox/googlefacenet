@@ -1,40 +1,40 @@
-¦w¸Ësublime
+å®‰è£sublime
 https://www.sublimetext.com/
-¦w¸Ëpython3(64¦ì¤¸3.7)
+å®‰è£python3(64ä½å…ƒ3.7)
 https://www.python.org/downloads/
-³]©wpython
+è¨­å®špython
 C:\Users\user\AppData\Local\Programs\Python\Python37
-https://www.itread01.com/content/1549847019.html ³]©wÀô¹ÒÅÜ¼Æ
+https://www.itread01.com/content/1549847019.html è¨­å®šç’°å¢ƒè®Šæ•¸
 
-¦w¸ËVisual C++ 2017(ºô¸ô¤U¸ü§K¶Oª©¥»)
+å®‰è£Visual C++ 2017(ç¶²è·¯ä¸‹è¼‰å…è²»ç‰ˆæœ¬)
 
-¦w¸Ëtensorflow
+å®‰è£tensorflow
 pip3 install --user --upgrade tensorflow
 
-¦w¸Ëkeras
+å®‰è£keras
 pip3 install keras
 
-¦w¸Ëopencv
+å®‰è£opencv
 pip3 install opencv-python
 
-¦w¸Ëscikit-image
+å®‰è£scikit-image
 pip3 install scikit-image
 
 
-keras-facenet-master¥Ø¿ı¤ÎÀÉ®×»¡©ú:
-./googleface.py ­ì¥»ªºµ{¦¡½X
-./main.py ­×§ï¹Lªº(¥Ñgoogleface.py§ó§ï)
+keras-facenet-masterç›®éŒ„åŠæª”æ¡ˆèªªæ˜:
+./googleface.py åŸæœ¬çš„ç¨‹å¼ç¢¼
+./main.py ä¿®æ”¹éçš„(ç”±googleface.pyæ›´æ”¹)
 
-googleface.pyµ{¦¡»¡©ú:
-valid ¸ê®Æ®w¹Ï¤ù
-compares ­n»Pvalid¸ê®Æ®w¤ñ¹ïªº¹Ï¤ù
-validPicPath ©ñ¹Ï¤ùªº¸ê®Æ§¨¦ì¸m
-model_path ¼Ò²Õ¸ô®|
-¸ô®|¤£¯à¦³¤¤¤å
+googleface.pyç¨‹å¼èªªæ˜:
+valid è³‡æ–™åº«åœ–ç‰‡
+compares è¦èˆ‡validè³‡æ–™åº«æ¯”å°çš„åœ–ç‰‡
+validPicPath æ”¾åœ–ç‰‡çš„è³‡æ–™å¤¾ä½ç½®
+model_path æ¨¡çµ„è·¯å¾‘
+è·¯å¾‘ä¸èƒ½æœ‰ä¸­æ–‡
 
-·|¤ñ¹ïvalid¸ò¨C­Ócompares¡A¨ÃÅã¥Ü¯S¼x­È®t¶Z
+æœƒæ¯”å°validè·Ÿæ¯å€‹comparesï¼Œä¸¦é¡¯ç¤ºç‰¹å¾µå€¼å·®è·
 
-­ì±Ğ¾Çºô¯¸(­ìµ{¦¡½X¤U¸ükeras-facenet-master):
+åŸæ•™å­¸ç¶²ç«™(åŸç¨‹å¼ç¢¼ä¸‹è¼‰keras-facenet-master):
 https://makerpro.cc/2018/12/introduction-to-face-recognition-model-google-facenet/
 
 
@@ -42,8 +42,8 @@ https://makerpro.cc/2018/12/introduction-to-face-recognition-model-google-facene
 
 
 
-°õ¦æ01.py
-°õ¦æµ²ªG:
+åŸ·è¡Œmain.py
+åŸ·è¡Œçµæœ:
 -----------------------------------------------------------------------------------------------------------------------------
 
 WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
@@ -116,4 +116,4 @@ C:\Users\user\Desktop\googlefacenet\keras-facenet-master\members\0505.jpg is clo
 ('0101.jpg', 0.7740429639816284)
 [Finished in 36.9s]
 -----------------------------------------------------------------------------------------------------------------------------
-¥H¤W»¡©ú
+ä»¥ä¸Šèªªæ˜
